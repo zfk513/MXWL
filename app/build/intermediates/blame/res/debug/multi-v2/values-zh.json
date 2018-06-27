@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\Android_Studio_Project\\mxwl_github\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lake zhang\\.gradle\\caches\\transforms-1\\files-1.1\\avoscloud-feedback-v4.6.4.aar\\07ad2b22171c951a0f4e761a5f9dff53\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,120,183,242,308,373,433",
+                        "endColumns": "64,62,58,65,64,59,73",
+                        "endOffsets": "115,178,237,303,368,428,502"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lake zhang\\.gradle\\caches\\transforms-1\\files-1.1\\avoscloud-search-v4.6.4.aar\\7d24998c8939af6f967393eadc57c5c9\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,128,192",
+                        "endColumns": "72,63,62",
+                        "endOffsets": "123,187,250"
+                    },
+                    "to": {
+                        "startLines": "9,10,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "507,580,644",
+                        "endColumns": "72,63,62",
+                        "endOffsets": "575,639,702"
+                    }
+                }
+            ]
+        }
+    ]
+}

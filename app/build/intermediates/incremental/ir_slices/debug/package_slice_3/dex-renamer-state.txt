@@ -1,0 +1,4 @@
+#Tue Jun 26 21:30:18 CST 2018
+base.0=H\:\\Android_Studio_Project\\mxwl_test_split_space\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

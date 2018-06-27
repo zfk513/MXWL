@@ -1,0 +1,53 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+    lintOptions {
+        abortOnError false
+    }
+
+    defaultConfig {
+        applicationId "com.example.android.BluetoothChat"
+        minSdkVersion 15
+        targetSdkVersion 5
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+}
+dependencies {
+    api('com.android.support:support-v4:21.0.3')
+
+    // LeanCloud 基础包
+    api('cn.leancloud.android:avoscloud-sdk:v4.6.4')
+
+    // 推送与实时聊天需要的包
+    api('cn.leancloud.android:avoscloud-push:v4.6.4@aar') { transitive = true }
+
+    // LeanCloud 统计包
+    api('cn.leancloud.android:avoscloud-statistics:v4.6.4')
+
+    // LeanCloud 用户反馈包
+    api('cn.leancloud.android:avoscloud-feedback:v4.6.4@aar')
+
+    // avoscloud-sns：LeanCloud 第三方登录包
+    api('cn.leancloud.android:avoscloud-sns:v4.6.4@aar')
+    api('cn.leancloud.android:qq-sdk:1.6.1-leancloud')
+
+    // LeanCloud 应用内搜索包
+    api('cn.leancloud.android:avoscloud-search:v4.6.4@aar')
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    implementation 'com.android.support:design:27.1.1'
+}

@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:16:1-77:12
+INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:16:1-77:12
+INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:16:1-77:12
+INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:16:1-77:12
+MERGED from [cn.leancloud.android:avoscloud-push:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-push-v4.6.4.aar\299a6684b938b10bba209f564d239850\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2537ddb3aac48a644dfafc33c122fdfe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\674dfe9993213d2c6d148d59c192ca88\AndroidManifest.xml:17:1-22:12
+MERGED from [cn.leancloud.android:avoscloud-feedback:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-feedback-v4.6.4.aar\07ad2b22171c951a0f4e761a5f9dff53\AndroidManifest.xml:2:1-11:12
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-sns-v4.6.4.aar\9adbd12465f77fef752dfdc74def2416\AndroidManifest.xml:2:1-16:12
+MERGED from [cn.leancloud.android:avoscloud-search:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-search-v4.6.4.aar\7d24998c8939af6f967393eadc57c5c9\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\238524b9757b12004f1490f78664a540\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95b27d183c54e1b1df826a54eaad2280\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0c3676b26642ac96161c3cb46b8c362b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\34f50cccaad3ba32de56647ec61fa5ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4e0e5b8fa4aaea3ca6e9b6f72dc8efec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8423156f4ee5f7c37646713403caf3c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f6c87d6f55f751f60aa28f9d377535d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\549bc4fadf2531a9e83e245c86208f00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\887d1a7a172cf1d9dc39014e1e653039\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\345f302aacbc8c33fe9f0b75f9090494\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ac10572949e603f4597aab24b6966653\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\607b9182a6da60b281ff14796ac812d2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b5c497e84ec9798fe89f171964ad53c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\35fb5d0227432a83c0ffd4026fabfd52\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\82aad9be5733d9d18d3bbeb8854dd169\AndroidManifest.xml:17:1-22:12
+INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:16:1-77:12
+INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:16:1-77:12
+INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:16:1-77:12
+	package
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:17:5-48
+		INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:21:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.INTERNET
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:26:5-67
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-sns-v4.6.4.aar\9adbd12465f77fef752dfdc74def2416\AndroidManifest.xml:11:5-67
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-sns-v4.6.4.aar\9adbd12465f77fef752dfdc74def2416\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:26:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:27:5-79
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-sns-v4.6.4.aar\9adbd12465f77fef752dfdc74def2416\AndroidManifest.xml:14:5-79
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-sns-v4.6.4.aar\9adbd12465f77fef752dfdc74def2416\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:28:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:29:5-76
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:29:22-73
+application
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:32:5-75:19
+MERGED from [cn.leancloud.android:avoscloud-search:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-search-v4.6.4.aar\7d24998c8939af6f967393eadc57c5c9\AndroidManifest.xml:11:5-14:19
+MERGED from [cn.leancloud.android:avoscloud-search:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-search-v4.6.4.aar\7d24998c8939af6f967393eadc57c5c9\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95b27d183c54e1b1df826a54eaad2280\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95b27d183c54e1b1df826a54eaad2280\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:35:9-41
+	android:allowBackup
+		ADDED from [cn.leancloud.android:avoscloud-search:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-search-v4.6.4.aar\7d24998c8939af6f967393eadc57c5c9\AndroidManifest.xml:11:18-44
+	android:icon
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:34:9-39
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:33:9-39
+service#com.avos.avoscloud.PushService
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:39:9-66
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:39:18-63
+receiver#com.avos.avoscloud.AVBroadcastReceiver
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:41:9-47:20
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:41:19-72
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:43:17-79
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:43:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:44:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:45:25-76
+activity#com.avos.avoscloud.feedback.ThreadActivity
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:52:9-79
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:52:19-76
+activity#com.example.android.BluetoothChat.BluetoothChat
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:55:9-60:20
+	android:label
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:58:13-45
+	android:configChanges
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:57:13-63
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:56:13-42
+activity#com.example.android.BluetoothChat.DeviceListActivity
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:61:9-65:59
+	android:label
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:64:13-50
+	android:configChanges
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:63:13-63
+	android:theme
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:62:13-47
+activity#com.example.android.BluetoothChat.InputInfo
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:68:9-74:20
+	android:label
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:69:13-33
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:68:19-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:70:13-73:29
+action#android.intent.action.MAIN
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:71:17-69
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:71:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml:72:27-74
+uses-sdk
+INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+MERGED from [cn.leancloud.android:avoscloud-push:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-push-v4.6.4.aar\299a6684b938b10bba209f564d239850\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-push:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-push-v4.6.4.aar\299a6684b938b10bba209f564d239850\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2537ddb3aac48a644dfafc33c122fdfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\2537ddb3aac48a644dfafc33c122fdfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\674dfe9993213d2c6d148d59c192ca88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\674dfe9993213d2c6d148d59c192ca88\AndroidManifest.xml:20:5-44
+MERGED from [cn.leancloud.android:avoscloud-feedback:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-feedback-v4.6.4.aar\07ad2b22171c951a0f4e761a5f9dff53\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-feedback:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-feedback-v4.6.4.aar\07ad2b22171c951a0f4e761a5f9dff53\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-sns-v4.6.4.aar\9adbd12465f77fef752dfdc74def2416\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-sns-v4.6.4.aar\9adbd12465f77fef752dfdc74def2416\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-search:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-search-v4.6.4.aar\7d24998c8939af6f967393eadc57c5c9\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-search:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-search-v4.6.4.aar\7d24998c8939af6f967393eadc57c5c9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\238524b9757b12004f1490f78664a540\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\238524b9757b12004f1490f78664a540\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95b27d183c54e1b1df826a54eaad2280\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\95b27d183c54e1b1df826a54eaad2280\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0c3676b26642ac96161c3cb46b8c362b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0c3676b26642ac96161c3cb46b8c362b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\34f50cccaad3ba32de56647ec61fa5ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\34f50cccaad3ba32de56647ec61fa5ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4e0e5b8fa4aaea3ca6e9b6f72dc8efec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4e0e5b8fa4aaea3ca6e9b6f72dc8efec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8423156f4ee5f7c37646713403caf3c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8423156f4ee5f7c37646713403caf3c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f6c87d6f55f751f60aa28f9d377535d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f6c87d6f55f751f60aa28f9d377535d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\549bc4fadf2531a9e83e245c86208f00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\549bc4fadf2531a9e83e245c86208f00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\887d1a7a172cf1d9dc39014e1e653039\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\887d1a7a172cf1d9dc39014e1e653039\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\345f302aacbc8c33fe9f0b75f9090494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\345f302aacbc8c33fe9f0b75f9090494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ac10572949e603f4597aab24b6966653\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ac10572949e603f4597aab24b6966653\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\607b9182a6da60b281ff14796ac812d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\607b9182a6da60b281ff14796ac812d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b5c497e84ec9798fe89f171964ad53c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b5c497e84ec9798fe89f171964ad53c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\35fb5d0227432a83c0ffd4026fabfd52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\35fb5d0227432a83c0ffd4026fabfd52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\82aad9be5733d9d18d3bbeb8854dd169\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\82aad9be5733d9d18d3bbeb8854dd169\AndroidManifest.xml:20:5-44
+INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+		ADDED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_Studio_Project\mxwl_github\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [cn.leancloud.android:avoscloud-sns:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-sns-v4.6.4.aar\9adbd12465f77fef752dfdc74def2416\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [cn.leancloud.android:avoscloud-sns:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-sns-v4.6.4.aar\9adbd12465f77fef752dfdc74def2416\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [cn.leancloud.android:avoscloud-sns:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-sns-v4.6.4.aar\9adbd12465f77fef752dfdc74def2416\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from [cn.leancloud.android:avoscloud-sns:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-sns-v4.6.4.aar\9adbd12465f77fef752dfdc74def2416\AndroidManifest.xml:13:22-63
+activity#com.avos.avoscloud.search.SearchActivity
+ADDED from [cn.leancloud.android:avoscloud-search:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-search-v4.6.4.aar\7d24998c8939af6f967393eadc57c5c9\AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from [cn.leancloud.android:avoscloud-search:v4.6.4] C:\Users\lake zhang\.gradle\caches\transforms-1\files-1.1\avoscloud-search-v4.6.4.aar\7d24998c8939af6f967393eadc57c5c9\AndroidManifest.xml:12:19-74

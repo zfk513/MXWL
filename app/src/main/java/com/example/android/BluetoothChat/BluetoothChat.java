@@ -136,7 +136,7 @@ public class BluetoothChat extends TabActivity {
     private BluetoothAdapter mBluetoothAdapter = null;
     // Member object for the chat services
     private BluetoothChatService mChatService = null;
-// ToDo add github
+// ToDo to change UI
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
